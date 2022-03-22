@@ -26,7 +26,7 @@ console.log('Druhý příklad - rozdíl mezi <= a <');
 let b = 0;
 
 while (b <= 10){
-    console.log(a);
+    console.log(b);
     b = b + 1;
 }
 console.log('---');
@@ -34,8 +34,8 @@ console.log('---');
 let c = 0;
 
 while (c < 10){
-    console.log(a);
-    b = b + 1;
+    console.log(c);
+    c = c + 1;
 }
 
 console.log('-------------------');
